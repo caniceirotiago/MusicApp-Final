@@ -16,10 +16,15 @@ Swing: Used to create the graphical user interface (GUI).
 
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
-  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1024px-Java_programming_language_logo.svg.png" alt="Java Logo" width="90" height="100">
-  <img src="https://img-b.udemycdn.com/course/750x422/2216930_a409.jpg" alt="Java Swing Logo" width="120" height="100">
+    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1024px-Java_programming_language_logo.svg.png" alt="Java Logo" width="90" height="100">
+    <img src="https://img-b.udemycdn.com/course/750x422/2216930_a409.jpg" alt="Java Swing Logo" width="120" height="100">
 </div>
-
+<div>
+    <img src="./classDiagram.png" alt="class">
+    <img src="./ex.png" alt="ex">
+    <img src="./ex1.png" alt="ex">
+    <img src="./ex2.png" alt="ex">
+</div>
 
 
 
