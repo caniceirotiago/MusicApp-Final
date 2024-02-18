@@ -21,7 +21,7 @@ Swing: Used to create the graphical user interface (GUI).
 </div>
     <br>
 <div>
-    <img src="./classDiagram.png" alt="class">
+    <img src="./ClassDiagram.png" alt="class">
     <img src="./login.png" alt="login">
     <img src="./ex.png" alt="ex">
     <img src="./ex1.png" alt="ex1">
