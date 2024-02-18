@@ -13,7 +13,9 @@ Statistics: View statistics related to songs, sales and user activity.
 Technologies Used
 Java: Main language for system development.
 Swing: Used to create the graphical user interface (GUI).
-![Example Image](https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1024px-Java_programming_language_logo.svg.png)
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1024px-Java_programming_language_logo.svg.png" alt="Java Logo" width="100" height="100">
+<img src="https://img-b.udemycdn.com/course/750x422/2216930_a409.jpg" alt="Java Swing Logo" width="100" height="100">
+
 
 
 ## RockstarIncManager:
