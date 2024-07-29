@@ -1,7 +1,7 @@
 # RockStar Inc.
 
 ## Description
-RockStar Inc. is a music management system that allows users to explore, create and manage music collections. This system is divided into two main parts: the back-end, which handles the business logic, and the front-end, which offers a graphical interface for user interaction.
+RockStar Inc. is a music management system that allows users to explore, create and manage music collections. This system is divided into two main parts: the back-end, which handles the business logic, and the front-end, which offers a graphical interface for user interaction. This project received 20/20 grade.
 
 ## Functionalities
 User Management: The system supports different types of users, including customers and music creators.
